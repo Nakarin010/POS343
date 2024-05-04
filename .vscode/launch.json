@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/nakarin/Downloads/ITCS343OSProject",
+      "program": "/Users/nakarin/Downloads/ITCS343OSProject/build/Debug/outDebug"
+    }
+  ]
+}

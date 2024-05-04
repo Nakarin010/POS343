@@ -1,0 +1,7 @@
+Character count: 22
+Word count: 6
+Misspelled count: 3
+
+
+
+
